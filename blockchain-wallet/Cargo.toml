@@ -1,0 +1,14 @@
+[package]
+name = "blockchain-wallet"
+version = "0.1.0"
+authors = ["mak21-p <maqsood.alikhan2@gmail.com>"]
+license = "MIT"
+edition = "2021"
+
+[dependencies]
+crossterm = "0.28.1"
+ratatui = "0.29.0"
+color-eyre = "0.6.3"
+sp-core = "35.0.0"
+rand = "0.9.0"
+hex = "0.4.3"
